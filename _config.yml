@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://PaulLozada.github.io
+title: PaulLozada
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
